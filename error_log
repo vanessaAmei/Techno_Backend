@@ -1,0 +1,1 @@
+[24-Nov-2019 11:49:06 UTC] PHP Fatal error:  Cannot redeclare User::getbyemail_post() in /home/xbananai/backend.xbanana.id/application/controllers/User.php on line 23
